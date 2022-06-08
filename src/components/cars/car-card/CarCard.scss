@@ -1,0 +1,22 @@
+.key {
+    font-weight: bold;
+}
+
+.btn-holder {
+    button {
+        margin: 10px;
+    }
+}
+
+.card {    
+    margin: 20px;
+    background: rgba($color: black, $alpha: 0.2);
+}
+
+.car-card-wrapper{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+

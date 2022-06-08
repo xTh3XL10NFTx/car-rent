@@ -1,0 +1,26 @@
+.car-form-wrapper {
+    display: flex;  
+    justify-content: center;
+    align-items: center;
+    height: calc(100vh - 60px);
+
+    form {
+        padding: 10px;
+        border: 9px solid rgba($color: #f5cb5c, $alpha: 0.5);
+        border-radius: 25px;
+        background: radial-gradient(#333533, #242423);
+        color:white;
+        font-weight: bold;
+        
+        div {
+            margin: 25px;
+        }
+    }
+}
+
+.key{
+    color:white;
+}
+.value{
+    color:white;
+}

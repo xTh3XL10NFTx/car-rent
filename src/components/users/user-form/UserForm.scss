@@ -1,0 +1,16 @@
+.user-form-wrapper {
+    height: calc(100vh - 100px);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    form {
+        border: 9px solid rgba($color: #f5cb5c, $alpha: 0.5);
+        padding: 20px;
+        border-radius: 25px;
+        width: 500px;
+        background: radial-gradient(#333533, #242423);
+        color:white;
+        font-weight: bold;
+    }
+}
